@@ -2,9 +2,9 @@ console.log('hello world');
 
 console.log('this is from testing branch');
 
-
-
-let conflict = 44
+function test(num1,num2){
+  return num1+num2
+}
 
 
 
