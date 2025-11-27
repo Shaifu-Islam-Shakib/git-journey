@@ -4,4 +4,4 @@ function addArray(arr) {
   }
   return arr[0] + addArray(arr.splice(1))
 }
-addArray([1, 2, 3, 4])
+addArray([1, 2, 3, 4]);
